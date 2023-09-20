@@ -2,8 +2,7 @@ import heapq
 import os
 
 """
-author: Bhrigu Srivastava
-website: https:bhrigu.me
+author: Ravi Patidar
 """
 
 class HuffmanCoding:
